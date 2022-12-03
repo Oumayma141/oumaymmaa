@@ -1,0 +1,21 @@
+<DOCTYPE html>
+<htm>
+<body>
+<!--
+table starts
+-->
+<table border="1">
+<tr>
+<th>data1</th>
+<th>data2</th>
+<th>data3</th>
+</tr>
+<tr>
+<th>data1.1</th>
+<th>data2.1</th>
+<th>data3.1</th>
+</tr>
+</table>
+
+</body>
+</html>

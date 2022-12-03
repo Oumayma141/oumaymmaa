@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+
+<body>
+ <a href=".htm" target="_blank" > go to google</a>  
+
+</body>
+<footer>
+
+</footer>
+
+</html>

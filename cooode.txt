@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+
+<body>
+    <h1>hello world </h1>
+    <h2>hello </h2>
+    <h3>hello </h3>
+    <h4>hello </h4>
+    <h5>hello </h5>
+    <ol>
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+        <li>item 4</li>
+    </ol>
+    <ul>
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+        <li>item 4</li>
+    </ul>
+<img src="12.jpg" width="800px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cirila-%D0%9E-majuskla.svg/640px-Cirila-%D0%9E-majuskla.svg.png">
+
+<a href="https:/www.google.com" target="_blank" > go to google</a>
+
+</body>
+<footer>
+
+</footer>
+
+</html>
